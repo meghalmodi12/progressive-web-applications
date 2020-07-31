@@ -1,4 +1,4 @@
-# Wittr
+# Offline Web Application : Wittr
 
 This is a silly little demo app for an offline-first course.
 
@@ -10,7 +10,7 @@ You could run the app either using machine dependnecies, or using docker
 
 Dependencies:
 
-* [Node.js](https://nodejs.org/en/) v0.12.7 or above
+* [Node.js](https://nodejs.org/en/) v0.12.7 or above (not above v10.17.0)
 
 Then check out the project and run:
 
